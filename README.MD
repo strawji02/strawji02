@@ -6,6 +6,7 @@
 |:---------:|:----------------------:|:----------:|:-----------------:|
 | Education | Computer Engineering | 2020.03 ~  | Hongik University |
 | Education | Department of Software | 2017.03 ~ 2020.02 | Sunrin Internet Highschool |
+| Developer | Frontend Engineer | 2022.01 ~ | Itian Co. Laboratory |
 
 ## 👩🏻‍💻 Tech Stack
 
