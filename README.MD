@@ -28,7 +28,8 @@
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-F43059?style=flat-square&logo=csswi&logoColor=white)
 
-### [**cocktails-recipe**](https://github.com/strawji02/cocktail-recipes) 
+### [**cocktails-recipe**](https://github.com/hiu-ce/cocktail-web) 
 ![React](https://img.shields.io/badge/React-49d6f9?style=flat-square&logo=react&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
