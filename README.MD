@@ -19,14 +19,16 @@
 
 ## 📖 Project
 
-### [**mazassumnida**](https://github.com/mazassumnida/mazassumnida) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-F43059?style=flat-square&logo=csswi&logoColor=white)
+### [**mazassumnida**](https://github.com/mazassumnida/mazassumnida) 
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-F43059?style=flat-square&logo=css3&logoColor=white)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=strawJI)](https://solved.ac/strawji)
 
 ### [**tierimnida**](https://github.com/mazassumnida/tierimnida) 
 ![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white) 
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-F43059?style=flat-square&logo=csswi&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-F43059?style=flat-square&logo=css3&logoColor=white)
 
 ### [**cocktails-recipe**](https://github.com/hiu-ce/cocktail-web) 
 ![React](https://img.shields.io/badge/React-49d6f9?style=flat-square&logo=react&logoColor=white) 
