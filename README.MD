@@ -40,7 +40,8 @@
 
 
 
-### [**mazassumnida**](https://github.com/mazassumnida/mazassumnida) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-F43059?style=flat-square&logo=csswi&logoColor=white)
+### [**mazassumnida**](https://github.com/mazassumnida/mazassumnida) 
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-F43059?style=flat-square&logo=csswi&logoColor=white)
 
 > 알고리즘 문제 사이트인 백준의 문제 티어를 표시해주는 확장인 Solved.ac의 본인 프로필을 카드형식의 디자인으로 예쁘게 표시할 수 있게 만들기 위해 진행한 프로젝트
 
