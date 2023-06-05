@@ -38,6 +38,10 @@
 
 ## 📖 Project
 
+### **팬마음**
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+
+> 트로트 스타의 팬덤을 위한 투표 서비스
 
 
 ### [**mazassumnida**](https://github.com/mazassumnida/mazassumnida) 
