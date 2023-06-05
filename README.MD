@@ -40,6 +40,8 @@
 
 ### [**팬마음**](https://fanmaum.com/)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-49d6f9?style=flat-square&logo=react&logoColor=white) 
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
 
 > 트로트 스타의 팬덤을 위한 투표 서비스
 
