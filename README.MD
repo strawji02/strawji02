@@ -6,6 +6,7 @@
 
 |    Type   |          Name          |    Date    |    Organization   |
 |:---------:|:----------------------:|:----------:|:-----------------:|
+| Education | Computer Engineering | 2024.03 ~ | Hongik University |
 | Work Experience | Frontend Developer | 2023.02 ~ 2023.12 | Fanmaum (팬마음) |
 | Work Experience | Frontend Developer | 2022.01 ~ 2023.01 | Itian (아이티언) |
 | Education | Computer Engineering | 2020.03 ~ Leave of Absence | Hongik University |
