@@ -1,12 +1,11 @@
-홍익대학교 컴퓨터공학과 20학번 황준혁 입니다.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawji02&count_private=true)
+플랜핏 Lead Frontend Developer 황준혁 입니다
 
 ## ✏️ Career
 
 |    Type   |          Name          |    Date    |    Organization   |
 |:---------:|:----------------------:|:----------:|:-----------------:|
-| Education | Computer Engineering | 2024.03 ~ | Hongik University |
+| Work Experience | Lead Frontend Developer | 2025.04 ~ 현재 | Planfit (플랜핏) |
+| Education | Computer Engineering | 2024.03 ~ 2026.02 | Hongik University |
 | Work Experience | Frontend Developer | 2023.02 ~ 2023.12 | Fanmaum (팬마음) |
 | Work Experience | Frontend Developer | 2022.01 ~ 2023.01 | Itian (아이티언) |
 | Education | Computer Engineering | 2020.03 ~ Leave of Absence | Hongik University |
